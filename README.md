@@ -1,3 +1,3 @@
 #StarRating-SeanWyndellQue
 
-![screenshot](screenshot_star.png)
+![screenshot](screenshot_stars.png)
